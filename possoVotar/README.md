@@ -34,5 +34,7 @@ let idade = 18;
 possoVotar(idade);
 // Neste exemplo, a função possoVotar é usada para verificar a elegibilidade para votar com base na idade fornecida (18 anos neste caso). A mensagem apropriada será exibida no console.
 ````
+
 ## Contribuições
+
 Contribuições são bem-vindas! Sinta-se à vontade para melhorar o código, adicionar recursos ou resolver problemas.
